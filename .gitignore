@@ -1,0 +1,14 @@
+.DS_Store
+**/.DS_Store
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Large binary data files
+3A/images.npy
+3B/data/
+3C/data/
+*.pt
+*.bin
+*.gz
